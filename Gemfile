@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 #gem "pry", group: :development
-gem "pry", :group => :development
+gem "pry", :groups => :development
 
 group :test do 
   gem "rpsec"
