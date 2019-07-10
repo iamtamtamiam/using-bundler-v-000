@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "rpsec"
+#gem "rpsec"
 gem "sinatra", '1.4.4'
 
 gem 'hashie'
@@ -10,6 +10,6 @@ gem "pry", group: :development
 
 #gem "pry", :group => :development
 
-#group :test do 
-#  gem "rspec"
-#end 
+group :test do 
+  gem "rspec"
+end 
