@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "rpsec"
+gem "rpsec", :group => :development 
 gem "sinatra", '1.4.4'
 
 gem 'hashie'
