@@ -1,7 +1,9 @@
 source "https://rubygems.org"
+
 group :test do 
   gem "rpsec"
 end 
+
 gem "sinatra", '1.4.4'
 
 gem 'hashie'
