@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-gem "rspec"
+group :test do 
+  gem "rspec"
+end 
+#gem "rspec"
 
 #gem "pry", group: :development
 #gem "pry", :group => :development
