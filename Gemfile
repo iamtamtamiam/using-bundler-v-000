@@ -2,7 +2,7 @@ source "https://rubygems.org"
 gem "rpsec"
 gem "sinatra"
 
-gem "hashie"
+gem 'hashie'
 
 group :development do 
   gem "pry"
