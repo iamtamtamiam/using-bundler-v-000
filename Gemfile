@@ -5,9 +5,9 @@ gem "rspec"
 #gem "pry", group: :development
 #gem "pry", :group => :development
 
-group :test do 
-  gem "rpsec"
-end 
+#group :test do 
+#  gem "rpsec"
+#end 
 
 gem "sinatra", '1.4.4'
 
